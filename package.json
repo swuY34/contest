@@ -1,0 +1,19 @@
+{
+  "name": "contest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "swuY, marcdiaz924, Yakuchino",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "contest"
+  },
+  "description": "",
+  "dependencies": {
+    "jquery": "^3.6.4",
+    "react": "^18.2.0"
+  }
+}
